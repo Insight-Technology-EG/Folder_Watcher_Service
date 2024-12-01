@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FolderWatcherService:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FolderWatcherService_jar</output-path>
+    <root id="archive" name="FolderWatcherService.jar">
+      <element id="module-output" name="FolderWatcherService" />
+    </root>
+  </artifact>
+</component>
